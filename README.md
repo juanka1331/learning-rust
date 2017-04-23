@@ -1,6 +1,6 @@
 # learning-rust
 Palmtree 'learning Rust' assignments
-
+Juan Carlos
 ## Structure
 To participate, clone/fork this repository and branch it. Create a folder named with your name under the specific week and create a pull request for your branch when you have completed the assignments.
 
