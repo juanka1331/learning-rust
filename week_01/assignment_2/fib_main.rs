@@ -4,8 +4,8 @@ fn main(){
 
 	println!("Salida Iterativa: {}",fib_iterative(fib_index) );
 	print!("Salida Recursiva: {}", fib(fib_index));
-
 }	
+
 fn fib_iterative(fib_index: i32) -> i32{
 	let mut last = 0;
 	let mut next: i32;
